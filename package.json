@@ -1,6 +1,6 @@
 {
-  "name": "diceware-generator",
-  "version": "3.0.0",
+  "name": "diceware-generator-grempe",
+  "version": "3.1.0",
   "description": "A diceware generator",
   "main": "lib",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lgaticaq/diceware-generator.git"
+    "url": "git+https://github.com/grempe/diceware-generator.git"
   },
   "keywords": [
     "diceware",
@@ -28,9 +28,9 @@
   "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lgaticaq/diceware-generator/issues"
+    "url": "https://github.com/grempe/diceware-generator/issues"
   },
-  "homepage": "https://github.com/lgaticaq/diceware-generator#readme",
+  "homepage": "https://github.com/grempe/diceware-generator#readme",
   "dependencies": {
     "secure-random": "^1.1.1"
   },
